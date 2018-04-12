@@ -1,7 +1,7 @@
 # Django_Histogram
 (1.) Django based web application using <b>CSV file</b>. When user will open the web application, it should show the <b>Histogram</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from  the data given in CSV. <br>
 (2.) Install Django  <b>(pip install django)</b><br>
-(3.) Create the app <b>(django-admin startproject Application)</b>. then go to the Application directory <b>(cd Application)</b>. Then &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execute <b>(python manage.py startapp first)</b><br>
+(3.) Create the app <b>(django-admin startproject Application)</b>. then go to the Application directory <b>(cd Application)</b>. Then &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execute <b>(python manage.py startapp Demo)</b><br>
 (4.) Add the module name <b>(Demo)</b> to the installed apps <b>(setting.py):</b><br><br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;INSTALLED_APPS = [<br>
   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;'django.contrib.admin',<br>
