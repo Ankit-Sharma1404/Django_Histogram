@@ -27,7 +27,7 @@ django-templated-mail==1.1.1
 djangorestframework==3.7.7
 djoser==1.1.5
 dlib==19.9.0
-ecdsa==0.13
+ecdsa==0.13.3
 entrypoints==0.2.3
 enum34==1.1.6
 esptool==2.2.1
