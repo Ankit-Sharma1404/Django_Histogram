@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 automium==0.2.6
 automium-web==0.1.1
 beautifulsoup4==4.6.0
-bleach==1.5.0
+bleach==3.1.1
 brewer2mpl==1.4.1
 certifi==2018.1.18
 cffi==1.11.5
